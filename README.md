@@ -13,7 +13,7 @@ Aside: Support for the Zebra TC8000 model was removed from a previous version of
 
 ## Setup Prerequisites
  - Windows computer
- - Per-Model folder structure ([referenced below](https://github.com/kgump/android-imaging-tool/edit/main/README.md#3-create-the-folder-structure))
+ - Per-Model folder structure ([referenced below](https://github.com/kgump/android-imaging-tool/tree/main?tab=readme-ov-file#3-create-the-folder-structure))
  - ADB Tools - download them [here](https://developer.android.com/tools/releases/platform-tools)
  - Device-compatible docking station
  - [InsightMobile version 1.35](https://docs.proglove.com/en/install-insight-mobile.html)
