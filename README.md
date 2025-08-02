@@ -22,7 +22,7 @@ Aside: Support for the Zebra TC8000 model was removed from a previous version of
 
 ## Setup
 ### 1. Download the latest release
-The download for the latest release can be found [here](https://github.com/kgump/android-imaging-tool/releases/tag/v1.0.0).
+The download for the latest release can be found [here](https://github.com/kgump/android-imaging-tool/releases/tag/v1.0.1).
 ### 2. Specify folder locations
 On first launch, you will be prompted to identify the locations of four specific folders. For each Zebra model, feel free to only fill out those that apply.
 The `platform-tools` folder location, however, is required in order for the application to function. This is the folder containing ADB.exe.
