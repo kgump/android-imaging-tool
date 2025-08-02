@@ -214,7 +214,7 @@ $proPath          = "$config60Path\ProGlove.proconfig"
 # App Paths
 $IMapk            = "$config60Path\InsightMobile_release_1.35.0_12769_091224_0945.apk"
 $EHS5apk          = "$config60Path\EHS_050040.apk"
-$VCapk            = "$config60Path\Velocity_Android_ARM_2.1.9.apk"
+$VCapk            = "$config60Path\Velocity_Android_ARM_2.1.8.apk"
 $EHS4apk          = "$config33Path\EHS_040005.apk"
 
 function Set-RadioFiles {
@@ -847,4 +847,5 @@ $window.Add_Closing({
 })
 
 # Show the GUI
+
 $null = $window.ShowDialog()
