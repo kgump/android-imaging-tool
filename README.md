@@ -1,7 +1,9 @@
 # Zebra Technologies Android Configuration Tool for Windows
 A GUI application for Windows written in PowerShell to automate the configuration process of Zebra Technologies RF units.\
 \
-This application leverages use of the adb command line tool to configure Android, push files, set file permissions, side load APKs, and includes log output in AppData for error management.
+This application leverages use of the adb command line tool to configure Android, push files, set file permissions, side load APKs, and includes log output in AppData for error management.\
+\
+<img width="506" height="307" alt="image" src="https://github.com/user-attachments/assets/0e66c9e7-9075-4df5-9a96-b90025ce1fa9" />
 
 ## Supported Models
  - Zebra ET60
