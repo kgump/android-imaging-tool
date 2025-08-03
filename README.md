@@ -1,4 +1,4 @@
-# Zebra Technologies Android Imaging Tool for Windows
+# Zebra Technologies Android Configuration Tool for Windows
 A GUI application for Windows written in PowerShell to automate the configuration process of Zebra Technologies RF units.\
 \
 This application leverages use of the adb command line tool to configure Android, push files, set file permissions, side load APKs, and includes log output in AppData for error management.
