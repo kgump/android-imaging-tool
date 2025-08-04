@@ -3,7 +3,7 @@ A GUI application for Windows written in PowerShell to automate the configuratio
 \
 This application leverages use of the adb command line tool to configure Android, push files, set file permissions, side load APKs, and includes log output in AppData for error management.\
 \
-<img width="506" height="307" alt="image" src="https://github.com/user-attachments/assets/0e66c9e7-9075-4df5-9a96-b90025ce1fa9" />
+<img src="https://github.com/user-attachments/assets/b89b857b-24ed-4d10-b6ce-5ee40d59c9c2" height="400" width="420" loop="infinite" />
 
 ## Supported Models
  - Zebra ET60
